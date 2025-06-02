@@ -84,11 +84,6 @@ img {
     width: 200px;
 }
 
-
-.info-section * {
-    /* border: 2px solid; */
-}
-
 .info-section {
     display: flex;
     flex-direction: column;
